@@ -1,0 +1,33 @@
+
+@font-face{
+    src: url(../fonts/lato/Lato-Bold.ttf);
+    font-family: 'Lato-Bold';
+    font-weight: 700;
+}
+
+
+@font-face{
+    src: url(../fonts/lato/Lato-Light.ttf);
+    font-family: 'Lato-Light';
+    font-weight: 300;
+}
+@font-face{
+    src: url(../fonts/lato/Lato-Regular.ttf);
+    font-family: 'Lato-Regular';
+    font-weight: 400;
+}
+@font-face{
+    src: url(../fonts/poppins/Poppins-Bold.ttf);
+    font-family: 'Poppins-Bold';
+    font-weight: 700;
+}
+@font-face{
+    src: url(../fonts/poppins/Poppins-Light.ttf);
+    font-family: 'Poppins-Light';
+    font-weight: 300;
+}
+@font-face{
+    src: url(../fonts/poppins/Poppins-Medium.ttf);
+    font-family: 'Poppins-Medium';
+    font-weight: 500;
+}
